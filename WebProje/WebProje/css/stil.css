@@ -1,0 +1,575 @@
+﻿body {
+    background-color: #212630;
+    font-family: Arial;
+}
+
+
+.temiz {
+    clear: both;
+}
+
+#aramabt{
+    float:left;
+    width:400px;
+    
+    margin-left:230px;
+    margin-top:25px;
+    height:40px;
+}
+/* Genel */
+#genel {
+    width: 1400px;
+    margin: 40px auto;
+}
+    /* Header */
+    #genel header {
+        padding: 5px;
+        margin: 2px;
+        overflow: auto;
+        background-color: #171a21;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 3px 6px 3px green;
+    }
+#icerik {
+    width: 850px;
+    float: left;
+    margin: 25px;
+}
+#cart {
+    width: 20px;
+    height: 20px;
+}
+/* Logo */
+#logo {
+    padding: 5px;
+    float: left;
+}
+
+/* Üst Sağ */
+#uSag {
+    float: right;
+
+}
+
+    #uSag > div {
+        margin-right:50px;
+        margin-top:20px;
+        color:whitesmoke;
+    }
+
+    #uSag img {
+        vertical-align: top;
+        margin-left: 4px;
+    }
+
+    #uSag span {
+        font-size: 15px;
+    }
+
+    #uSag a {
+        font-weight: bold;
+        color: green;
+    }
+
+#ara {
+    border-top: 4px solid #212630;
+    padding: 5px;
+    overflow: auto;
+    margin-top:10px;
+}
+/* Menü */
+#katagori {
+    background-color: #171a21;
+    overflow: auto;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 3px 6px 3px green;
+}
+
+#anasayfa {
+    text-align: center;
+    width: 279px;
+    border-right: 1px solid whitesmoke;
+    height: 100%;
+    opacity: 50%;
+    line-height: 60px;
+    font-size: 20px;
+    float: left;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+    #anasayfa:hover {
+        color: green;
+        background-color: whitesmoke;
+        border-bottom-left-radius: 20px;
+    }
+
+#tümü {
+    text-align: center;
+    width: 279px;
+    border-right: 1px solid whitesmoke;
+    height: 100%;
+    opacity: 50%;
+    line-height: 60px;
+    font-size: 20px;
+    float: left;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+    #tümü:hover {
+        color: green;
+        background-color: whitesmoke;
+    }
+
+#iletisim {
+    text-align: center;
+    width: 279px;
+    height: 100%;
+    border-left: 1px solid whitesmoke;
+    opacity: 50%;
+    line-height: 60px;
+    font-size: 20px;
+    float: left;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+    #iletisim:hover {
+        color: green;
+        background-color: whitesmoke;
+        border-bottom-right-radius: 20px;
+
+    }
+
+
+#sol {
+    margin-top:40px;
+    float: left;
+    width: 200px;
+    background-color: #171a21;
+    box-shadow: 5px 5px 10px green;
+    border-radius: 20px;
+}
+
+    #k-liste ul li {
+        font-size: 20px;
+    }
+
+    #k-liste ul a {
+        text-decoration: none;
+        color: seagreen;
+        font-size: 20px;
+    }
+
+#k-liste ul li a {
+    margin-left: -40px;
+    display: block;
+    height: 60px;
+    background-color: #171a21;
+    line-height: 60px;
+    text-align: center;
+}
+
+        #k-liste ul li a:hover {
+            background-color: #212630;
+            color: whitesmoke;
+            border-radius: 15px;
+        }
+
+    #k-liste ul {
+        list-style: none;
+    }
+
+        #k-liste ul li:first-child {
+            font-size: 30px;
+            color: whitesmoke;
+            text-align: center;
+        }
+
+
+
+#sag2 {
+    width: 200px;
+    height: 100px;
+    background-color: #171a21;
+    box-shadow: 5px 5px 5px green;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#sag {
+    margin-top:40px;
+    float: right;
+    width: 300px;
+    background-color: #171a21;
+    box-shadow: 5px 5px 5px green;
+    border-radius: 20px;
+
+}
+#sag img{
+    margin-top:2px;
+    border-radius:20px;
+    width: 300px;
+    height: 500px;
+}
+
+#kGirisi {
+    overflow: auto;
+    padding: 5px;
+    margin-left:20px;
+}
+
+
+    #kGirisi span {
+
+        width: 180px;
+        float: left;
+        padding: 3px 0px 1px 0px;
+        color: whitesmoke;
+        font-size: 12px;
+        margin-top: 3px;
+    }
+
+        #kGirisi span .kontrol {
+            border: 1px solid #e3e3e3;
+            padding: 3px 4px;
+            color: #797979;
+            border-radius: 3px;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+        }
+
+        #kGirisi span .gbuton {
+            float: right;
+            padding: 3px 9px;
+            color: #fff;
+            text-shadow: 1px 1px #6a4534;
+            font-weight: bold;
+            cursor: pointer;
+            background: #f26005; /* Old browsers */
+            border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-border-radius: 5px;
+        }
+
+        #kGirisi span input[type=checkbox] {
+            vertical-align: middle;
+            margin-right: 3px;
+            margin-top: 3px;
+        }
+
+        #kGirisi span a#benihatirla {
+            color: #76b013;
+            text-decoration: underline;
+        }
+
+span a#sifremiunuttum {
+    margin-top: 10px;
+}
+
+span#hesapAc {
+    margin-top: 10px;
+    color: #76b013;
+}
+
+#kGirisi span a {
+    color: #797979;
+    font-size: 12px;
+}
+
+#benihatirla{
+    color:green;
+}
+
+#genel footer {
+    box-shadow: 3px 6px 3px green;
+    background: #171a21;
+    overflow: auto;
+    padding: 1px;
+    margin-top: 25px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#fSol {
+    margin-left:300px;
+    width: 300px;
+    float: left;
+}
+
+    #fSol a img {
+        width: 40px;
+        height: 40px;
+        float: left;
+        margin-right: 10px;
+        margin-top:4px;
+        padding: 5px;
+    }
+
+#fSag {
+    color:whitesmoke;
+    margin-top:20px;
+    width: 450px;
+    float: right;
+    overflow: auto;
+    padding: 1px;
+    margin-bottom: 5px;
+    text-align:center;
+}
+
+
+
+
+
+/* Ürün */
+.urun {
+    background-color: #171a21;
+    width: 240px;
+    height: 370px;
+    float: left;
+    padding: 5px;
+    overflow: auto;
+    margin: 16px 15px;
+    border-radius: 15px;
+}
+    .urun:hover {
+        box-shadow: 4px 4px 6px green;
+    }
+
+    .urun h1 {
+        color: whitesmoke  ;
+        width: 200px;
+        margin: 5px auto;
+        font-size: 15px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .urun a figure {
+        width: 170px;
+        height: 170px;
+        margin: 0px auto;
+        text-align: center;
+
+    }
+        .urun a figure:hover {
+            box-shadow: 4px 4px 6px green;
+        }
+
+    .urun .fiyat {
+        padding-right: 30px;
+    }
+
+    .urun a {
+        text-decoration: none;
+    }
+
+/* İç Detay */
+.detay {
+    width: 70px;
+    float: right;
+    margin: 10px 5px;
+}
+
+    .detay span {
+
+        font-size: 15px;
+        color: whitesmoke;
+        text-align:center;
+    }
+
+#uincele {
+    color: #fff;
+    border: none;
+    padding: 8px 8px;
+    cursor: pointer;
+    margin: 15px 10px;
+    background: #84c11c; /* Old browsers */
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    width: 40px;
+}
+
+
+/* Fiyat Kısmı */
+.fiyatKismi {
+    margin: 25px 5px 0 5px;
+    border: 1px solid green;
+    padding: 5px;
+    overflow: auto;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.fiyat {
+    margin:3px;
+    width: 75px;
+    float: left;
+    border-right: 1px dashed green;
+    padding-right: 10px;
+}
+
+    .fiyat span {
+        font-size: 15px;
+        color: green;
+    }
+
+    .fiyat p {
+        font-size: 15px;
+        color: white;
+        margin: 2px 0;
+    }
+
+    .fiyat h4 {
+        font-size: 18px;
+        color: green;
+    }
+.sayfaa {
+    float: left;
+    margin-top: 40px;
+    margin-left: 420px;
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+
+/* Detay */
+#detay {
+    background-color: #171a21;
+    overflow: auto;
+    padding: 1px;
+    border-radius:15px;
+}
+
+/* Detay Sol */
+#dSol {
+    width: 200px;
+    float: left;
+}
+
+    #dSol hgroup h1 {
+        padding: 10px 10px 0 10px;
+        font-size: 20px;
+        color: whitesmoke;
+        margin: 10px 15px 0px 15px;
+    }
+
+    #dSol .aciklama {
+        color: green;
+        font-size: 11px;
+        padding: 5px;
+        text-transform: uppercase;
+        margin: 0 8px;
+    }
+
+    #dSol span {
+        font-size: 12px;
+        color: whitesmoke;
+        width: 150px;
+        float: left;
+        padding: 5px;
+        margin: 10px 10px 0 10px;
+    }
+
+        #dSol span h3 {
+            color: #c83b00;
+            float: right;
+            font-size: 22px;
+            margin-top: -6px;
+        }
+
+        #dSol span p {
+            margin-top:-2px;
+            font-size: 15px;
+            color: whitesmoke;
+            float: right;
+        }
+
+
+/* Detay Sağ */
+#dSag {
+    width: 300px;
+    float: right;
+    padding: 1px;
+}
+
+    #dSag a figure img {
+        width: 250px;
+        float: left;
+    }
+
+#detay h3 {
+    color: #c83b00;
+    font-size: 22px;
+    margin-top: -6px;
+}
+
+#ozellik {
+    color: #76b013;
+    font-size: 11px;
+    margin-top: 10px;
+}
+
+#spt {
+    margin-top: 20px;
+    padding: 15px;
+    float: left;
+    width: 760px;
+    border-radius: 15px;
+    background-color: #171a21;
+    color: whitesmoke;
+}
+    #spt:hover {
+        box-shadow: 4px 4px 6px green;
+    }
+#spt2 {
+    float:left;
+    color: green;
+    font-weight: bold;
+    margin-top:40px;
+
+}
+.butt{
+
+    padding:5px;
+
+}
+    .butt:hover {
+        color: green;
+        box-shadow: 4px 4px 6px green;
+    }
+
+#cali {
+    float: left;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 250px;
+    top:-115px;
+}
+#spt h3 {
+    color: whitesmoke;
+    position: relative;
+    left: 260px;
+    top: -110px;
+    font-weight: bold;
+    font:20px;
+}
+
+.ilett:hover{
+    box-shadow: 4px 4px 6px green;
+}
+.ilett {
+    color: whitesmoke;
+    background-color: #171a21;
+    width: 750px;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding: 30px;
+    border-radius: 20px;
+}
+

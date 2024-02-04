@@ -1,0 +1,472 @@
+D:\Okul\İleri Web\WebProje\WebProje\bin\WebProje.dll.config
+D:\Okul\İleri Web\WebProje\WebProje\bin\WebProje.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\WebProje.pdb
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\csc.exe
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\csc.exe.config
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\csc.rsp
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\csi.exe
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\csi.exe.config
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\csi.rsp
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.AppContext.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Collections.Immutable.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Console.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Globalization.Calendars.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.IO.Compression.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Net.Http.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Net.Sockets.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Reflection.Metadata.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.ValueTuple.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Xml.XPath.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\vbc.exe
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\vbc.exe.config
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\vbc.rsp
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe
+D:\Okul\İleri Web\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe.config
+D:\Okul\İleri Web\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Okul\İleri Web\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Okul\İleri Web\WebProje\WebProje\obj\Debug\WebProje.csproj.AssemblyReference.cache
+D:\Okul\İleri Web\WebProje\WebProje\obj\Debug\WebProje.csproj.CoreCompileInputs.cache
+D:\Okul\İleri Web\WebProje\WebProje\obj\Debug\WebProje.csproj.CopyComplete
+D:\Okul\İleri Web\WebProje\WebProje\obj\Debug\WebProje.dll
+D:\Okul\İleri Web\WebProje\WebProje\obj\Debug\WebProje.pdb
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\WebProje.dll.config
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\WebProje.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\WebProje.pdb
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\csc.exe
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\csc.exe.config
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\csc.rsp
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\csi.exe
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\csi.exe.config
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\csi.rsp
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.AppContext.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Collections.Immutable.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Console.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Globalization.Calendars.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.IO.Compression.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Net.Http.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Net.Sockets.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Reflection.Metadata.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.ValueTuple.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Xml.XPath.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\vbc.exe
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\vbc.exe.config
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\vbc.rsp
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe.config
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\obj\Debug\WebProje.csproj.AssemblyReference.cache
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\obj\Debug\WebProje.csproj.CoreCompileInputs.cache
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\obj\Debug\WebProje.csproj.CopyComplete
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\obj\Debug\WebProje.dll
+D:\Okul\Proje-1\İleri Web Proje\WebProje\WebProje\obj\Debug\WebProje.pdb
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\WebProje.dll.config
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\WebProje.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\WebProje.pdb
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\csc.exe
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\csc.exe.config
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\csc.rsp
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\csi.exe
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\csi.exe.config
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\csi.rsp
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.AppContext.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Collections.Immutable.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Console.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Globalization.Calendars.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.IO.Compression.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Net.Http.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Net.Sockets.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Reflection.Metadata.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.ValueTuple.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XPath.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\vbc.exe
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\vbc.exe.config
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\vbc.rsp
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe.config
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.AssemblyReference.cache
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.CoreCompileInputs.cache
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.CopyComplete
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\obj\Debug\WebProje.dll
+D:\Okul\Proje-1\İleri Web Proje\1226706039\WebProje\WebProje\obj\Debug\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\WebProje.dll.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\csc.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\csc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\csc.rsp
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\csi.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\csi.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\csi.rsp
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.AppContext.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Console.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Net.Http.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\vbc.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\vbc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\vbc.rsp
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.CopyComplete
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\obj\Debug\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\WebProje\WebProje\obj\Debug\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\WebProje.dll.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\csc.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\csc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\csc.rsp
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\csi.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\csi.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\csi.rsp
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.AppContext.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Console.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Net.Http.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\vbc.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\vbc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\vbc.rsp
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\obj\Debug\WebProje.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\obj\Debug\WebProje.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\obj\Debug\WebProje.csproj.CopyComplete
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\obj\Debug\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039 - 2\WebProje\WebProje\obj\Debug\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\WebProje.dll.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\csc.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\csc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\csc.rsp
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\csi.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\csi.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\csi.rsp
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.AppContext.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Console.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Net.Http.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\vbc.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\vbc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\vbc.rsp
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.CopyComplete
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\obj\Debug\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\1226706039\1226706039\WebProje\WebProje\obj\Debug\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\WebProje.dll.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\csc.exe
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\csc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\csc.rsp
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\csi.exe
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\csi.exe.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\csi.rsp
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.AppContext.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Console.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Net.Http.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\vbc.exe
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\vbc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\vbc.rsp
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\obj\Debug\WebProje.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\obj\Debug\WebProje.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\obj\Debug\WebProje.csproj.CopyComplete
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\obj\Debug\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\WebProje\WebProje\obj\Debug\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\WebProje.dll.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\WebProje.pdb
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\csc.exe
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\csc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\csc.rsp
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\csi.exe
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\csi.exe.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\csi.rsp
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.AppContext.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Console.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Net.Http.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\vbc.exe
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\vbc.exe.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\vbc.rsp
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\obj\Debug\WebProje.csproj.CopyComplete
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\obj\Debug\WebProje.dll
+C:\Users\baran\OneDrive\Masaüstü\Yeni klasör\1226706039\WebProje\WebProje\obj\Debug\WebProje.pdb

@@ -1,0 +1,155 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainMaster.master.cs" Inherits="WebProje.MainMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+	<!-- META KODLARI BAŞLANGIÇ -->
+<meta name="abstract" content="Bu sitede oyun alımı yapabilirsiniz."/>
+<meta name="keywords" content="oyun,oyunsatis,oyunticaret,indirimlioyunlar,coksatanoyunlar,ucuzoyun"/>
+<meta name="Copyright" content="(c) 2024 Baran	Alyar (GameStore) Tüm Hakları Saklıdır."/>
+<meta name="Author" content="Baran Alyar, baranalyar7@gmail.com"/>
+<meta http-equiv="content-language"	content="tr"/>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+	<!-- META KODLARI BİTİŞ -->
+		<link rel="icon" href="images/logo.png" type="image/x-icon" />
+    <link rel="stylesheet" href="css/stil.css" media="all"/>
+    <title>Game Store</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 246px;
+            height: 77px;
+        }
+        .auto-style2 {
+            width: 870px;
+        }
+        .auto-style3 {
+            width: 182px;
+            height: 46px;
+        }
+        .auto-style4 {
+            height: 54px;
+        }
+        .auto-style5 {
+            width: 374px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+   
+    <div id="genel">
+
+	<header>
+		<div id="logo">
+			<a href="anasayfa.aspx"><img src="images/logo.png" alt="Game Store" class="auto-style1"/></a>
+		</div>
+        <div id="aramabt">
+			<asp:TextBox ID="txtArama" runat="server"  Placeholder="Lütfen Aradığınız Oyunu Yazınn" style="width:300px; border-radius:15px; background-color:#171a21; height:25px;  border-color:whitesmoke; color:whitesmoke;" ></asp:TextBox>
+			<asp:Button ID="btnAra" runat="server" Text="Ara" OnClick="btnAra_Click" style="height: 26px;background:#212630; color:whitesmoke; border-color:white; border-radius:15px; box-shadow: 2px 2px 3px green;width:40px; margin-left:15px;" />
+		</div>
+
+				<div id="uSag" >
+					<div>
+						<asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+					</div>
+					<div>
+						<span>
+                        <asp:Label ID="Label3" runat="server" Text="Ürün Sayınız : "></asp:Label>
+						&nbsp;<asp:Label ID="Label2" runat="server" Text="0"></asp:Label>
+							<asp:Label ID="Label4" runat="server" Text=" Adet Ürün Var"></asp:Label><img src="images/sepet.png" id="cart" alt="Alışveriş Sepeti"/>
+					</div>
+				</div>
+	
+	</header>
+
+	<div class="temiz"></div>
+		<div id="ara">
+
+		</div>
+		<div id="katagori" >
+					<a href="anasayfa.aspx" id="anasayfa"><div><b>ANASAYFA</b></div></a>
+					<a href="hakkimizda.aspx" id="tümü"><div ><b>HAKKIMIZDA</b></div></a>
+					<a href="iletisim.aspx" id="tümü"><div ><b>İLETİŞİM</b></div></a>
+					<asp:LinkButton ID="tümü" runat="server" OnClick="tümü_Click">SEPET</asp:LinkButton>
+					<asp:LinkButton id="iletisim"  runat="server" OnClick="iletisim_Click">GİRİŞ</asp:LinkButton>
+
+		</div>
+		<div class="temiz"></div>
+
+		<div id="sol">
+			<div id="k-liste">
+				<ul>
+					<li> Kategori </li>
+					<li><a href="Aksiyon.aspx">Aksiyon</a></li>
+					<li><a href="macera.aspx">Macera</a></li>
+					<li><a href="yaris.aspx">Yarış</a></li>
+					<li><a href="savas.aspx">Savaş</a></li>
+					<li><a href="acikk.aspx">Açık Dünya</a></li>
+					<li><a href="eglence.aspx">Eğlence</a></li>
+					<li><a href="korku.aspx">Korku</a></li>
+					<li><a href="battle.aspx">Battle Royale</a></li>
+					<li><a href="encok.aspx">En Çok Satılan</a></li>
+
+				</ul>
+				
+			</div>
+			<asp:Panel ID="Panel3" runat="server">
+				<div id="k-liste">
+					<ul>
+						<li><a href="hesabim.aspx">Hesap</a></li>
+
+					</ul>
+				</div>
+			</asp:Panel>
+			
+				<asp:Panel ID="Panel2" runat="server">
+			<div id="sag2">
+				<div id="k-liste">
+					<ul>
+						<li><a href="adminpel.aspx">ADMİN PANEL</a></li>
+
+					</ul>
+				</div>
+			</div>
+				</asp:Panel>
+
+						
+                        		
+			
+		</div>
+		<asp:Panel ID="Panel1" runat="server">		</asp:Panel>
+		
+		<div id="icerik" class="auto-style2">
+			<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+		</div>
+
+				<div id="sag">
+					<img src="images/r1.gif" />
+						
+					<img src="images/r2.gif" />
+		
+				</div>
+<div class="temiz"></div>
+	<footer>
+		<div id="logo">
+			<a href="anasayfa.aspx"><img src="images/logo.png" alt="Game Store" class="auto-style3"/></a>
+		</div>
+		<div id="fSol" class="auto-style4">
+			
+			<a href="https://www.instagram.com/baranalyar/"><img src="images/ins.png" alt="Paypal"/></a>
+			<a href="https://www.instagram.com/baranalyar/"><img src="images/x.png" alt="Paypal"/></a>
+			<a href="https://www.instagram.com/baranalyar/"><img src="images/face.png" alt="Paypal"/></a>
+		</div>
+		<div id="fSag" class="auto-style5">
+
+			<span>Copyright Baran ALYAR 1226706039&copy; Tüm Hakları Saklıdır </span>
+		</div>
+	</footer>
+
+      </div>
+		        
+    </form>
+</body>
+</html>
